@@ -316,6 +316,7 @@
         android:textColor="#ffffff"
         android:textSize="18sp"
         android:textStyle="bold"
+        android:onClick="displayToastMsg"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="@+id/linearLayout"
         app:layout_constraintStart_toStartOf="@+id/linearLayout"
